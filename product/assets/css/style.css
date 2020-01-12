@@ -1,0 +1,285 @@
+.res {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+@media (min-width: 360px) {
+  .res {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+}
+.sgtextbox {
+  position: absolute;
+  width: 516px;
+  height: 68px;
+  left: 0px;
+  top: 455px;
+  padding: 12px 25px;
+  background: #ffffff;
+  border-radius: 40px;
+}
+@media (max-width: 1440px) {
+  .sgtextbox {
+    position: absolute;
+    width: 516px;
+    height: 68px;
+    left: 0px;
+    top: 400px;
+
+    background: #ffffff;
+    border-radius: 40px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .sgtextbox {
+    position: absolute;
+    width: 300px;
+    height: 46px;
+    left: 0px;
+    top: 245px;
+
+    background: #ffffff;
+    border-radius: 40px;
+  }
+}
+.sstextbox {
+  position: absolute;
+  width: 516px;
+  height: 68px;
+  left: 0px;
+  top: 455px;
+  padding: 12px 25px;
+  background: #ffffff;
+  border-radius: 40px;
+}
+@media (max-width: 1440px) {
+  .sstextbox {
+    position: absolute;
+    width: 516px;
+    height: 68px;
+    left: 0px;
+    top: 400px;
+
+    background: #ffffff;
+    border-radius: 40px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .sstextbox {
+    position: absolute;
+    width: 300px;
+    height: 46px;
+    left: 0px;
+    top: 245px;
+
+    background: #ffffff;
+    border-radius: 40px;
+  }
+}
+
+.ssbutton {
+  position: absolute;
+  width: 194.54px;
+  height: 54px;
+  left: 312.35px;
+  top: 460px;
+  background: #2647ae;
+  border-radius: 40px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 35px;
+  /* identical to box height, or 140% */
+  text-align: center;
+
+  color: #fefefe;
+}
+@media screen and (max-width: 320px) {
+  .ssbutton {
+    position: absolute;
+    width: 115.54px;
+    height: 35px;
+    left: 215.35px;
+    top: 251px;
+
+    background: #2647ae;
+    border-radius: 40px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 35px;
+    /* identical to box height, or 140% */
+    text-align: center;
+    align-items: center;
+    letter-spacing: 0.04em;
+
+    color: #fefefe;
+  }
+}
+@media (max-width: 1440px) {
+  .ssbutton {
+    position: absolute;
+    width: 194.54px;
+    height: 58px;
+    left: 313.35px;
+    top: 405px;
+    background: #2647ae;
+    border-radius: 40px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 35px;
+    /* identical to box height, or 140% */
+    padding: 10px 15px;
+    align-items: center;
+    letter-spacing: 0.04em;
+
+    color: #fefefe;
+  }
+}
+@media screen and (max-width: 768px) {
+  .ssbutton {
+    position: absolute;
+    width: 95.35px;
+    height: 35px;
+    left: 198.35px;
+    top: 251px;
+
+    background: #2647ae;
+    border-radius: 40px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 35px;
+    /* identical to box height, or 140% */
+    text-align: center;
+    align-items: center;
+    letter-spacing: 0.04em;
+    padding: 0px;
+    color: #fefefe;
+  }
+}
+
+.sgbutton {
+  position: absolute;
+  width: 194.54px;
+  height: 54px;
+  left: 312.35px;
+  top: 460px;
+  background: #9d56e0;
+  border-radius: 40px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 35px;
+  /* identical to box height, or 140% */
+  text-align: center;
+  align-items: center;
+  letter-spacing: 0.04em;
+
+  color: #fefefe;
+}
+@media (max-width: 1440px) {
+  .sgbutton {
+    position: absolute;
+    width: 194.54px;
+    height: 54px;
+    left: 312.35px;
+    top: 408px;
+    background: #9d56e0;
+    border-radius: 40px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 35px;
+    /* identical to box height, or 140% */
+    padding: 10px 15px;
+    align-items: center;
+    letter-spacing: 0.04em;
+
+    color: #fefefe;
+  }
+}
+@media screen and (max-width: 768px) {
+  .sgbutton {
+    position: absolute;
+    width: 95.35px;
+    height: 35px;
+    left: 198.35px;
+    top: 251px;
+
+    background: #823dfc;
+    border-radius: 40px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 35px;
+    /* identical to box height, or 140% */
+    padding: 0px;
+    align-items: center;
+    letter-spacing: 0.04em;
+
+    color: #fefefe;
+  }
+}
+
+.image1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+@media (max-width: 769px) {
+  .image1 {
+    display: none !important;
+  }
+}
+.onlymb {
+  display: none;
+}
+@media (max-width: 769px) {
+  .onlymb {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+}
+
+.featuresh {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+@media (max-width: 700px) {
+  .spacing {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+}
+
+.mobile_supply {
+  display: none;
+}
+@media (max-width: 800px) {
+  .mobile_supply {
+    display: inline;
+  }
+  .mobile_supply h6 {
+    line-height: 1px;
+    letter-spacing: 2px;
+  }
+}

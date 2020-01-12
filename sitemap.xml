@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+
+<url>
+  <loc>https://gamasome.com/</loc>
+  <lastmod>2019-09-24T21:29:27+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/index</loc>
+  <lastmod>2019-09-24T21:29:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/product/smart-supply</loc>
+  <lastmod>2019-09-24T21:22:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/product/smart-gig</loc>
+  <lastmod>2019-09-24T22:11:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/dragon</loc>
+  <lastmod>2019-09-24T21:29:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/floki</loc>
+  <lastmod>2019-09-24T21:29:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/neurozome</loc>
+  <lastmod>2019-09-24T21:29:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/service</loc>
+  <lastmod>2019-09-24T21:29:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/about</loc>
+  <lastmod>2019-09-24T21:29:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/contact</loc>
+  <lastmod>2019-09-24T21:29:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/portfolio</loc>
+  <lastmod>2019-09-24T21:29:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/aisolution</loc>
+  <lastmod>2019-09-24T21:29:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/vrsolution</loc>
+  <lastmod>2019-09-24T21:29:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/gaming</loc>
+  <lastmod>2019-09-24T21:29:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/gamasome-privacy-policy</loc>
+  <lastmod>2019-09-24T21:29:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/Terms-conditions</loc>
+  <lastmod>2019-09-24T21:29:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/product/contact_supply</loc>
+  <lastmod>2019-09-24T21:22:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://gamasome.com/product/contact_gig</loc>
+  <lastmod>2019-09-24T21:22:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
